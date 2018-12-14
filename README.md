@@ -5,7 +5,7 @@ If the user has not signed the relevant CLA the pull request status check will c
 To demonstrate CLA Tracker Functionality:
 1. Fork this repository
 2. Make a change and submit a pull request
-3. Follow link to CLA form
-4. Submit form
-5.Revist your forked repository to confirm that your pull request now passes all status checks
-
+3. Observe that pull request fails status checks
+4. Follow link to CLA form
+5. Submit form
+6. Revist your forked repository to confirm that your pull request now passes all status checks
