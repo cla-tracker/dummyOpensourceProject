@@ -1,4 +1,4 @@
-This repository has the master branch protected so merges cannot take place unless the clatracker app specifies that a pull_request passes its checks (i.e. the contributor has signed the relevant CLA for this opensource project.)
+This repository has the master branch protected so merges cannot take place unless the clatracker app hosted at https://young-peak-52407.herokuapp.com specifies that a pull_request passes its checks (i.e. the contributor has signed the relevant CLA for this opensource project.)
 
 If the user has not signed the relevant CLA the pull request status check will contain a link to a form where this can be signed.
 
